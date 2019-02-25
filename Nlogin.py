@@ -35,8 +35,8 @@ Exc = [line]
 lineMID = line.getProfile().mid
 bot1 = line.getProfile().mid
 RfuBot=[lineMID]
-Family=["u0035a5a6c5ae9d30c9a0992ecbc39395",lineMID]
-admin=['u0035a5a6c5ae9d30c9a0992ecbc39395',lineMID]
+Family=["u15d6baf1b56b371f98fe441f0abf3ec5",lineMID]
+admin=['u15d6baf1b56b371f98fe441f0abf3ec5',lineMID]
 RfuFamily = RfuBot + Family
 
 protectname = []
@@ -87,9 +87,9 @@ settings = {
     "changePictureProfile":False,
     "unsendMessage": False,
     "autoJoinTicket": False,
-    "welcome":"สวัสดีคนมาใหม่\n\nตั้งข้อความต้อนรับด้วยคับ\nVҜ ŚẾL₣ВΌŦ",
-    "kick":"งิเตะทมอยยย😂\nVҜ ŚẾL₣ВΌŦ",
-    "bye":"ไปซ่ะละ ลาก่อยยย\nVҜ ŚẾL₣ВΌŦ",
+    "welcome":"สวัสดีคนมาใหม่\n\nตั้งข้อความต้อนรับด้วยคับ\n✧═══•❁ໂऩ❁═══✧",
+    "kick":"งิเตะทมอยยย😂\n✧═══•❁ໂऩ❁═══✧",
+    "bye":"ไปซ่ะละ ลาก่อยยย\n✧═══•❁ໂऩ❁═══✧",
     "Respontag":"แทคทำไมเดะจับเย็ดตูด!",
     "eror":"คุณใช้คำสั่งผิด สั่งบอทอีกครั้ง!",
     "spam":{},
@@ -99,10 +99,10 @@ settings = {
     "pname": {},
     "pro_name": {},
     "message1":"แอดมารัก หรือ แอดมารัน😊",
-    "message":"บัญชีนี้ถูกป้องกันโดย VҜ ŚẾL₣ВΌŦ ระบบได้บล็อคคุณอัตโนมัติ!",
+    "message":"บัญชีนี้ถูกป้องกันโดย ✧═══•❁ໂऩ❁═══✧ระบบได้บล็อคคุณอัตโนมัติ!",
     "comment":"""ŚẾL₣ВΌŦ BY:
 ╔══════════════┓
-╠       VҜ ŚẾL₣ВΌŦ
+╠ ✧═══•❁ໂऩ❁═══✧
 ╚══════════════┛""",
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
@@ -362,7 +362,7 @@ def myhelp():
 ╠❋►ทีมบอท
 ╠❋►Creator
 ╠❋►Sp
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋✧═══•❁ໂऩ❁═══✧»"""
     return myHelp
 
 def listgrup():
@@ -401,7 +401,7 @@ def listgrup():
 ╠❋►ล้างแบน @
 ╠❋►เตะแบน
 ╠❋►เช็คไอดี
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋✧═══•❁ໂऩ❁═══✧»"""
     return listGrup
 
 def socmedia():
@@ -423,7 +423,7 @@ def socmedia():
 ╠❋►ไอจี 
 ╠❋►เวลา
 ╠❋►ขอหื่น
-╰═❋VҜ ŚẾL₣ВΌŦ »"""
+╰═❋✧═══•❁ໂऩ❁═══✧»"""
     return socMedia
 
 def helpset():
@@ -478,7 +478,7 @@ def helpset():
 ╠❋►ชื่อ;
 ╠❋►ตัส;
 ╠❋►Spam on ↔ off
-╰═❋BY: VҜ ŚẾL₣ВΌŦ"""
+╰═❋BY: ✧═══•❁ໂऩ❁═══✧"""
     return helpSet
 
 def helpsetting():
@@ -514,7 +514,7 @@ def helpsetting():
 ╠❋►กันกลุ่ม ↔ ปิดกันกลุ่ม
 ╠❋►กันเข้า ↔ ปิดกันเข้า
 ╠❋►เปิดหมด ↔ ปิดหมด
-╰══❋BY: VҜ ŚẾL₣ВΌŦ """
+╰══❋BY: ✧═══•❁ໂऩ❁═══✧ """
     return helpSetting
 
 def helptexttospeech():
@@ -544,7 +544,7 @@ def helptexttospeech():
 ╠❋► sr : เซอเบียร์
 ╠❋► th : ไทย
 ╠❋► vi : เวียดนาม
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: ✧═══•❁ໂऩ❁═══✧ »
 
 「วิธีใช้ : พูด พี่คะหนูเงี่ยน」"""
     return helpTextToSpeech
@@ -585,7 +585,7 @@ def helplanguange():
 ╠❋► ru : รัสเซีย
 ╠❋► th : ไทย
 ╠❋► zu : ซูลู
-╰═❋BY: VҜ ŚẾL₣ВΌŦ »
+╰═❋BY: ✧═══•❁ໂऩ❁═══✧ »
  
 「วิธีใช้ : Tr-th ตามด้วยคำที่จะแปล」"""
     return helpLanguange
